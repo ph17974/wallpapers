@@ -6,4 +6,4 @@ Dit zijn mijn wallpapers (achtergronden).
 
 # Wallpapers
 
-- 0301.jpg - Linux computer chip.
+- 0301.jpg - Linux computer chip. - 1920x1080
