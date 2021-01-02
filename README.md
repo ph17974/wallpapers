@@ -1,4 +1,9 @@
 ***
-Philippe Heyvaert - Last Modified on December 10th 2020
+Philippe Heyvaert - Gewijzigd op za jan  2 22:02:47 CET 2021
 ***
-This is my wallpaper collection.
+Dit zijn mijn wallpapers (achtergronden).
+***
+
+# Wallpapers
+
+- 0301.jpg - Linux computer chip.
